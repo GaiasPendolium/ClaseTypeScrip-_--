@@ -1,0 +1,6 @@
+#encabezado{
+    width: 60%;
+    height: 200px;
+    background-color:rgb(40, 100, 179);
+    box-shadow: 10px 20px 5px rgba(55, 45, 196, 0.8);
+}
